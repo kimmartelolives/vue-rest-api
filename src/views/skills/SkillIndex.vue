@@ -22,7 +22,7 @@
                     Name
                 </th>
                 <th scope="col" class="px-6 py-3">
-                    Slug
+                    Description
                 </th>
                 <th scope="col" class="px-6 py-3">
                     
